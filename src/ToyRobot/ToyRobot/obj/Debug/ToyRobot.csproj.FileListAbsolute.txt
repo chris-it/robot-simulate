@@ -1,0 +1,5 @@
+G:\Chrish\Solutions\ToyRobot\ToyRobot\bin\Debug\ToyRobot.exe.config
+G:\Chrish\Solutions\ToyRobot\ToyRobot\bin\Debug\ToyRobot.exe
+G:\Chrish\Solutions\ToyRobot\ToyRobot\bin\Debug\ToyRobot.pdb
+G:\Chrish\Solutions\ToyRobot\ToyRobot\obj\Debug\ToyRobot.exe
+G:\Chrish\Solutions\ToyRobot\ToyRobot\obj\Debug\ToyRobot.pdb

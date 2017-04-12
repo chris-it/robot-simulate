@@ -1,0 +1,12 @@
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\bin\Debug\ToyRobot.Tests.dll
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\bin\Debug\ToyRobot.Tests.pdb
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\bin\Debug\Castle.Core.dll
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\bin\Debug\Moq.dll
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\bin\Debug\Should.dll
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\bin\Debug\ToyRobot.exe
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\bin\Debug\ToyRobot.pdb
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\bin\Debug\Castle.Core.xml
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\bin\Debug\Moq.xml
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\obj\Debug\ToyRobot.Tests.csprojResolveAssemblyReference.cache
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\obj\Debug\ToyRobot.Tests.dll
+G:\Chrish\Solutions\ToyRobot\ToyRobot.Tests\obj\Debug\ToyRobot.Tests.pdb
